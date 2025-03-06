@@ -1,0 +1,272 @@
+# Webalizer V2.23-08 Incremental Data - 03/05/2025 23:46:06
+2025 3 5 23 46 6
+132 33 23 3 8 20 1875463 52 20 0
+9 22 23 1 5
+26 4 325540 6 5 3
+19 11 497386 6 6 5
+5 1 1209 2 1 1
+13 7 81171 4 6 4
+69 10 970157 9 34 7
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+4 1 948 1
+0 0 0 0
+7 3 320377 1
+0 0 0 0
+0 0 0 0
+30 4 326345 6
+13 8 640306 5
+0 0 0 0
+18 1 5151 3
+0 0 0 0
+0 0 0 0
+11 5 80879 4
+10 6 176313 4
+2 0 522 0
+3 1 426 2
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+10 3 320358 6
+24 1 3838 20
+1
+0
+0
+33
+0
+0
+0
+0
+0
+0
+0
+0
+28
+0
+0
+0
+0
+0
+0
+0
+13
+48
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+7
+0
+0
+1
+0
+0
+# -urls- 
+/login.php
+0 19 0 8094 0 0
+/style2.css
+0 7 0 7578 0 0
+/background.jpg
+0 7 0 1842553 0 0
+# End Of Table - urls
+# -sites- (monthly)
+44.243.195.38
+0 4 2 852 1 1740923247
+-
+34.168.191.0
+0 2 0 522 0 0
+-
+34.222.201.54
+0 4 3 175035 1 1740923252
+-
+109.199.118.129
+0 2 1 426 1 1741096794
+-
+35.88.18.111
+0 4 3 79467 1 1741091889
+-
+93.158.91.32
+0 3 1 687 1 1740966793
+-
+3.140.190.124
+0 1 0 0 1 1741161012
+-
+205.169.39.103
+0 6 4 320153 1 1741159401
+-
+105.163.1.6
+0 19 5 322516 1 1741217942
+-
+42.236.12.198
+0 2 1 426 1 1740899233
+-
+174.138.44.159
+0 21 0 5670 1 1741155093
+-
+160.119.248.136
+0 17 0 1791 2 1741218366
+-
+100.29.11.209
+0 6 3 320221 1 1740885838
+-
+196.251.112.126
+0 1 0 261 0 0
+-
+162.142.125.43
+0 3 0 560 1 1741177120
+-
+119.13.157.72
+0 1 0 156 0 0
+-
+35.88.196.238
+0 4 2 852 1 1741091883
+-
+35.247.154.84
+0 2 0 522 0 0
+-
+42.236.12.206
+0 2 1 426 1 1740907177
+-
+138.246.253.24
+0 1 0 315 0 0
+-
+209.38.84.213
+0 16 0 4725 1 1740823146
+-
+172.98.54.56
+0 3 1 426 1 1741101067
+-
+104.197.69.115
+0 8 6 639454 2 1741158080
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+34.168.191.0
+0 2 0 522 0 0
+-
+3.140.190.124
+0 1 0 0 1 1741161012
+-
+205.169.39.103
+0 6 4 320153 1 1741159401
+-
+105.163.1.6
+0 16 3 321419 1 1741217942
+-
+174.138.44.159
+0 21 0 5670 1 1741155093
+-
+160.119.248.136
+0 15 0 1791 1 1741218366
+-
+162.142.125.43
+0 3 0 560 1 1741177120
+-
+138.246.253.24
+0 1 0 315 0 0
+-
+104.197.69.115
+0 4 3 319727 1 1741158080
+-
+# End Of Table - sites (daily)
+# -referrers- 
+https://africalogistics.co.ke/style2.css
+0 2
+http://africalogistics.co.ke/login.php
+0 6
+http://africalogistics.co.ke/style2.css
+0 5
+http://africalogistics.co.ke/
+0 1
+- (Direct Request)
+0 111
+http://www.africalogistics.co.ke/login.php
+0 1
+https://africalogistics.co.ke/login.php
+0 5
+http://www.africalogistics.co.ke/
+0 1
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36
+0 21
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36
+0 4
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 YaBrowser/18.11.1.715 (beta) Yows
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64)AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+0 8
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+0 16
+Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
+0 3
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+0 5
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/68.0.3440.106 Safari/537.36
+0 8
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/125.0.6422.60 Safari/537.36
+0 8
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:77.0) Gecko/20100101 Firefox/77.0
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36 Edg/91.0.
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36; 360Spider
+0 4
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+0 16
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+0 6
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+0 3
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
